@@ -7,9 +7,7 @@ This project contains a series of batch scripts designed to automate the process
 - [Files](#files)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
 
 ## Files
 
@@ -56,6 +54,6 @@ This script detects the current resolution of the primary display and toggles be
 
 4. Create shortcuts to the 2 DisplaySwitch scripts and the Resolution Toggle script on your desktop or start menu.
 
-## Know Issues
+## Troubleshooting
 
 Depending on various graphics card or windows set ups, you may need to edit the number of tabs and cursor arrow moves that the Resolution scripts make in order to reach the desired field for display resolution on the windows settings page and the desired resolution in the drop down box. Manually operate the procedure and count the number of steps needed and adjust accordingly.
